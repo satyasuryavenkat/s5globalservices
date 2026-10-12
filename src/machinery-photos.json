@@ -1,0 +1,58 @@
+[
+  {
+    "id": "juice-processing",
+    "title": "Cappy Juice Beverage Processing Line.jpg",
+    "author": "Biso",
+    "source": "https://commons.wikimedia.org/wiki/File:Cappy_Juice_Beverage_Processing_Line.jpg",
+    "license": "https://creativecommons.org/licenses/by/4.0/",
+    "licenseLabel": "CC BY 4.0"
+  },
+  {
+    "id": "mixing-tank",
+    "title": "Mixing tank.jpg",
+    "author": "Xubuli1993",
+    "source": "https://commons.wikimedia.org/wiki/File:Mixing_tank.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseLabel": "CC BY-SA 4.0"
+  },
+  {
+    "id": "thermal-tanks",
+    "title": "Stainless steel fermentation tanks for sparkling wine.jpg",
+    "author": "Lynn B",
+    "source": "https://commons.wikimedia.org/wiki/File:Stainless_steel_fermentation_tanks_for_sparkling_wine.jpg",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "licenseLabel": "CC BY 2.0"
+  },
+  {
+    "id": "processing-tanks",
+    "title": "Stainless steel fermentation tank.jpg",
+    "author": "EJ&EZ",
+    "source": "https://commons.wikimedia.org/wiki/File:Stainless_steel_fermentation_tank.jpg",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "licenseLabel": "CC BY 2.0"
+  },
+  {
+    "id": "filling-machine",
+    "title": "10 heads stainless steel piston filler.jpg",
+    "author": "Vkpak",
+    "source": "https://commons.wikimedia.org/wiki/File:10_heads_stainless_steel_piston_filler.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseLabel": "CC BY-SA 4.0"
+  },
+  {
+    "id": "filling-station",
+    "title": "HSKL Automatic Bottle Filling and Capping.jpg",
+    "author": "Cfcoo",
+    "source": "https://commons.wikimedia.org/wiki/File:HSKL_Automatic_Bottle_Filling_and_Capping.jpg",
+    "license": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "licenseLabel": "CC BY-SA 3.0"
+  },
+  {
+    "id": "bottling-line",
+    "title": "Beer bottle filling machine.JPG",
+    "author": "AlfvanBeem",
+    "source": "https://commons.wikimedia.org/wiki/File:Beer_bottle_filling_machine.JPG",
+    "license": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "licenseLabel": "CC0 1.0"
+  }
+]
